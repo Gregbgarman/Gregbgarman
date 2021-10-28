@@ -13,7 +13,7 @@ My interest in programming began in 2019 when I completed a simple python module
 Below are some of the apps I have worked on. I hope you enjoy and thanks for stopping by!
 
 
-
+<img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage1.PNG" width=250> &nbsp;&nbsp; &nbsp; <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage6.PNG" width=250>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage4.PNG" width=250><br>
 
 
 
