@@ -39,6 +39,7 @@ My interest in programming began in 2019 when I completed a simple python module
 <img src="https://github.com/Gregbgarman/getfiles/blob/main/placeshipsimg.PNG" width=350>&nbsp;&nbsp; <img src="https://github.com/Gregbgarman/getfiles/blob/main/playingbattleship.PNG" width=350>
 ### code not made public per instructer's request-Please contact me to view code
 
+Feel free to contact me: gregory.b.garman@gmail.com
 
 <!--
 **Gregbgarman/Gregbgarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
