@@ -34,7 +34,7 @@ My interest in programming began in 2019 when I completed a simple python module
 <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage1.PNG" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage2.PNG" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage3.PNG" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage4.PNG" width=180><br>
 ### code here  https://github.com/Gregbgarman/TaskApp
 
-### Battleship Game (Java SDK)
+## Battleship Game (Java SDK)
 ### Recreation of classic board game
 <img src="https://github.com/Gregbgarman/getfiles/blob/main/placeshipsimg.PNG" width=350>&nbsp;&nbsp; <img src="https://github.com/Gregbgarman/getfiles/blob/main/playingbattleship.PNG" width=350>
 ### code not made public per instructer's request-Please contact me to view code
