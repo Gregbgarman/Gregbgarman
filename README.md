@@ -10,17 +10,22 @@ I am from Jacksonville, FL and am pursuing my second bachelors degree from Flori
 
 My interest in programming began in 2019 when I completed a simple python module on CodeCademy. Since then, I have grown a wonderful passion for learning new programming languages and developing as many different types of software as I can. 
 
-## Below are some of the apps I have worked on. I hope you enjoy and thanks for stopping by!
+## Below are some screenshots of the apps I have worked on. I hope you enjoy and thanks for stopping by!
 
-## Treasure App
+
+## Treasure App (Android) 
 ### Trading app for college students to donate and acquire items for free
-<img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage5.PNG" width=250> &nbsp;&nbsp; &nbsp; <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage6.PNG" width=250>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage4.PNG" width=250><br>
+<img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage5.PNG" width=200> &nbsp;&nbsp; &nbsp; <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage6.PNG" width=200>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage4.PNG" width=200>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage1.PNG" width=200><br>
 ### code here  https://github.com/Gregbgarman/GregTreasureApp
 
-## Movie App
+
+## Movie App (Android)
 ### Users can gain information on current movies playing and nearby theaters
 <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage4.PNG" width=250> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage5.PNG" width=250> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage7.PNG" width=250><br>
 ### code here  https://github.com/Gregbgarman/Film_Fanatic
+
+
+
 
 
 <!--
