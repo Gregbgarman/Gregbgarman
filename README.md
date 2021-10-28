@@ -1,6 +1,6 @@
 
 
-## Welcome! I'm Greg Garman
+## Hello and Welcome! I'm Greg Garman
  
         
 ### Computer Science student with experience developing mobile and desktop applications
