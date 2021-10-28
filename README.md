@@ -1,6 +1,6 @@
-### Hi there! I'm Greg Garman
+##                                                              Hi there and welcome! I'm Greg Garman
 
-## B.S. Computer Science hoping to change the world through developing software
+##                                       B.S. Computer Science student hoping to change the world through developing software
 
 
 <!--
