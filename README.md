@@ -1,7 +1,8 @@
-##                                                              Hi there and welcome! I'm Greg Garman
+<p align="center">
+## Hi there and welcome! I'm Greg Garman
 
-##                                       B.S. Computer Science student hoping to change the world through developing software
-
+## I am a B.S. Computer Science student hoping to change the world someday through developing software
+</p>
 
 <!--
 **Gregbgarman/Gregbgarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
