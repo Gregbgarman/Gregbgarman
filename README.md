@@ -21,7 +21,7 @@ My interest in programming began in 2019 when I completed a simple python module
 
 ## Movie App (Android)
 ### Users can gain information on current movies playing and nearby theaters
-<img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage4.PNG" width=250> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage5.PNG" width=250> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage7.PNG" width=250><br>
+<img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage4.PNG" width=180> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage5.PNG" width=180> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage7.PNG" width=180>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage3.PNG" width=180><br>
 ### code here  https://github.com/Gregbgarman/Film_Fanatic
 
 
