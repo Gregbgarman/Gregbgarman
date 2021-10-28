@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there! I'm Greg Garman
+
+## B.S. Computer Science hoping to change the world through developing software
+
 
 <!--
 **Gregbgarman/Gregbgarman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
