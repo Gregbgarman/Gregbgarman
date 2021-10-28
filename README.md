@@ -15,7 +15,7 @@ My interest in programming began in 2019 when I completed a simple python module
 
 ## Treasure App (Android) 
 ### Trading app for college students to donate and acquire items for free
-<img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage5.PNG" width=200> &nbsp;&nbsp; &nbsp; <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage6.PNG" width=200>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage4.PNG" width=200>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage1.PNG" width=200><br>
+<img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage5.PNG" width=180> &nbsp;&nbsp; &nbsp; <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage6.PNG" width=180>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage4.PNG" width=180>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage1.PNG" width=180><br>
 ### code here  https://github.com/Gregbgarman/GregTreasureApp
 
 
