@@ -31,7 +31,7 @@ My interest in programming began in 2019 when I completed a simple python module
 
 ## To-Do list App (Android)
 ### classic app incorporates additional features including Google Maps and notifications
-<img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage1.PNG" width=180> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage2.PNG" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage3.PNG" width=180> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage4.PNG" width=180><br>
+<img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage1.PNG" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage2.PNG" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage3.PNG" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage4.PNG" width=180><br>
 ### code here  https://github.com/Gregbgarman/TaskApp
 
 
