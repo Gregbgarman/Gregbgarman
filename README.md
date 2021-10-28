@@ -19,16 +19,20 @@ My interest in programming began in 2019 when I completed a simple python module
 ### code here  https://github.com/Gregbgarman/GregTreasureApp
 
 
-## Movie App (Android)
-### Users can gain information on current movies playing and nearby theaters
-<img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage4.PNG" width=180> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage5.PNG" width=180> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage7.PNG" width=180>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage3.PNG" width=180><br>
-### code here  https://github.com/Gregbgarman/Film_Fanatic
-
 ## Ford Hackathon (Android)
 ### Automated climate control and battery recharging features to improve upon Ford's FordPass App
 <img src="https://github.com/Gregbgarman/FordHackathon/blob/master/homesnap.PNG" width=200> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/FordHackathon/blob/master/batterysnap.PNG" width=200> &nbsp;&nbsp; &nbsp; <img src="https://github.com/Gregbgarman/FordHackathon/blob/master/tempsnap.PNG" width=200><br>
 ### code here https://github.com/Gregbgarman/FordHackathon
 
+## Movie App (Android)
+### Users can gain information on current movies playing and nearby theaters
+<img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage4.PNG" width=180> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage5.PNG" width=180> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage7.PNG" width=180>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage3.PNG" width=180><br>
+### code here  https://github.com/Gregbgarman/Film_Fanatic
+
+## To-Do list App (Android)
+### classic app incorporates additional features including Google Maps and notifications
+<img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage1.PNG" width=180> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage2.PNG" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage3.PNG" width=180> &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage4.PNG" width=180><br>
+### code here  https://github.com/Gregbgarman/TaskApp
 
 
 
