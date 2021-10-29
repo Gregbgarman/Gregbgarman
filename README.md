@@ -24,7 +24,8 @@ My interest in programming began in 2019 when I completed a simple python module
 ## Ford Hackathon (Android)
 ### Automated climate control and battery recharging features to improve upon Ford's FordPass App
 <img src="https://github.com/Gregbgarman/FordHackathon/blob/master/homesnap.PNG" width=200> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/FordHackathon/blob/master/batterysnap.PNG" width=200> &nbsp;&nbsp; &nbsp; <img src="https://github.com/Gregbgarman/FordHackathon/blob/master/tempsnap.PNG" width=200><br>
-### code here https://github.com/Gregbgarman/FordHackathon
+### [Overview and source code](https://github.com/Gregbgarman/FordHackathon)
+
 
 ## Movie App (Android)
 ### Users can gain information on current movies playing and nearby theaters
@@ -35,7 +36,8 @@ My interest in programming began in 2019 when I completed a simple python module
 ## To-Do list App (Android)
 ### classic app incorporates additional features including Google Maps and notifications
 <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage1.PNG" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage2.PNG" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage3.PNG" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage4.PNG" width=180><br>
-### code here  https://github.com/Gregbgarman/TaskApp
+### [Overview and source code](https://github.com/Gregbgarman/TaskApp)
+
 
 ## Battleship Game (Java SDK)
 ### Recreation of classic board game
