@@ -16,7 +16,9 @@ My interest in programming began in 2019 when I completed a simple python module
 ## Treasure App (Android) 
 ### Trading app for college students to donate and acquire items for free
 <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage5.PNG" width=180> &nbsp;&nbsp; &nbsp; <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage6.PNG" width=180>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage4.PNG" width=180>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/GregTreasureApp/blob/master/Tgoodimage1.PNG" width=180><br>
-### code here  https://github.com/Gregbgarman/GregTreasureApp
+
+### [Overview and source code](https://github.com/Gregbgarman/GregTreasureApp)
+
 
 
 ## Ford Hackathon (Android)
@@ -27,7 +29,8 @@ My interest in programming began in 2019 when I completed a simple python module
 ## Movie App (Android)
 ### Users can gain information on current movies playing and nearby theaters
 <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage4.PNG" width=180> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage5.PNG" width=180> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage7.PNG" width=180>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage3.PNG" width=180><br>
-### code here  https://github.com/Gregbgarman/Film_Fanatic
+### [Overview and source code](https://github.com/Gregbgarman/Film_Fanatic)
+
 
 ## To-Do list App (Android)
 ### classic app incorporates additional features including Google Maps and notifications
