@@ -26,6 +26,14 @@ My interest in programming began in 2019 when I completed a simple python module
 <img src="https://github.com/Gregbgarman/FordHackathon/blob/master/homesnap.PNG" width=200> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/FordHackathon/blob/master/batterysnap.PNG" width=200> &nbsp;&nbsp; &nbsp; <img src="https://github.com/Gregbgarman/FordHackathon/blob/master/tempsnap.PNG" width=200><br>
 ### [Overview and source code](https://github.com/Gregbgarman/FordHackathon)
 
+## Running and mood tracking app (Android)
+### App tracks running statistics and shows relationship between mood before and after running
+<img src="https://github.com/Gregbgarman/getfiles/blob/main/RH1.PNG" width=180> &nbsp; &nbsp; &nbsp; 
+<img src="https://github.com/Gregbgarman/getfiles/blob/main/RH2.PNG" width=180>&nbsp;&nbsp; &nbsp;
+<img src="https://github.com/Gregbgarman/getfiles/blob/main/RH3.PNG" width=180> &nbsp; &nbsp; &nbsp; 
+<img src="https://github.com/Gregbgarman/getfiles/blob/main/RH4.PNG" width=180><br>
+### [Overview and source code](https://github.com/Runner-s-High/runners-high-app)
+
 
 ## Movie App (Android)
 ### Users can gain information on current movies playing and nearby theaters
@@ -37,12 +45,6 @@ My interest in programming began in 2019 when I completed a simple python module
 ### classic app incorporates additional features including Google Maps and notifications
 <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage1.PNG" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage2.PNG" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage3.PNG" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage4.PNG" width=180><br>
 ### [Overview and source code](https://github.com/Gregbgarman/TaskApp)
-
-## Running and mood tracking app (Android)
-### App tracks running statistics and shows relationship between mood before and after running
-
-
-### [Overview and source code](https://github.com/Runner-s-High/runners-high-app)
 
 
 
