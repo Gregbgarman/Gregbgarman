@@ -58,7 +58,7 @@ My interest in programming began in 2019 when I completed a simple python module
 
 ## Shopping Cart App (.NET)
 ### User shops and adds items on client side while server side constantly updates changes on RESTful API
-<img src="https://github.com/Gregbgarman/Grocery-.NET-app/blob/master/full.net.gif" width=700>
+<img src="https://github.com/Gregbgarman/Grocery-.NET-app/blob/master/full.net.gif" width=700><br>
 ### [Overview and source code](https://github.com/Gregbgarman/Grocery-.NET-app)
 
 
