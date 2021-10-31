@@ -56,6 +56,12 @@ My interest in programming began in 2019 when I completed a simple python module
 <img src="https://github.com/Gregbgarman/getfiles/blob/main/placeshipsimg.PNG" width=350>&nbsp;&nbsp; <img src="https://github.com/Gregbgarman/getfiles/blob/main/playingbattleship.PNG" width=350>
 ### Please contact me to view source code
 
+## Shopping Cart App (.NET)
+### User shops and adds items on client side while server side constantly updates changes on RESTful API
+<img src="https://github.com/Gregbgarman/Grocery-.NET-app/blob/master/full.net.gif" width=700>
+### [Overview and source code](https://github.com/Gregbgarman/Grocery-.NET-app)
+
+
 ### Feel free to contact me: gregory.b.garman@gmail.com
 
 <!--
