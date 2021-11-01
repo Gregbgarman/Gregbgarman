@@ -61,7 +61,12 @@ My interest in programming began in 2019 when I completed a simple python module
 <img src="https://github.com/Gregbgarman/Grocery-.NET-app/blob/master/full.net.gif" width=700><br>
 ### [Overview and source code](https://github.com/Gregbgarman/Grocery-.NET-app)
 
-
+<!--
+## Linux Shell Recreation
+### C program supports normal command line functionality including piping, output/input redirection, and background processes
+<img src="https://github.com/Gregbgarman/getfiles/blob/main/fullshell.gif" width=700><br>
+### Please contact me to view source code
+-->
 ### Feel free to contact me: gregory.b.garman@gmail.com
 
 <!--
