@@ -51,7 +51,7 @@ My interest in programming began in 2019 when I completed a simple python module
 
 ## DNA Sequencing Console App (C++)
 ### App converts DNA sequences to mRNA to amino acids. Shown here is conversion of a Covid-19 strain's complete DNA genome into amino acids.
-<img src="https://github.com/Gregbgarman/DNASequencing/blob/master/decoding.gif" width=550> &nbsp;
+<img src="https://github.com/Gregbgarman/DNASequencing/blob/master/decoding.gif" width=500> &nbsp;
 <img src="https://github.com/Gregbgarman/DNASequencing/blob/master/covidpic.PNG" width=250><br>
 ### [Overview and source code](https://github.com/Gregbgarman/DNASequencing)
 
