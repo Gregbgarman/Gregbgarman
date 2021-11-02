@@ -49,6 +49,11 @@ My interest in programming began in 2019 when I completed a simple python module
 <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage1.PNG" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage2.PNG" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage3.PNG" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage4.PNG" width=180><br>
 ### [Overview and source code](https://github.com/Gregbgarman/TaskApp)
 
+## DNA Sequencing Console App (C++)
+### App converts DNA sequences to mRNA to amino acids. Shown here is conversion of a Covid-19 strain's complete DNA genome into amino acids.
+<img src="https://github.com/Gregbgarman/DNASequencing/blob/master/decoding.gif" width=600> &nbsp;
+<img src="https://github.com/Gregbgarman/DNASequencing/blob/master/covidpic.PNG" width=350><br>
+### [Overview and source code](https://github.com/Gregbgarman/DNASequencing)
 
 
 ## Battleship Game (Java SDK)
@@ -60,6 +65,11 @@ My interest in programming began in 2019 when I completed a simple python module
 ### User shops and adds items on client side while server side constantly updates changes on RESTful API
 <img src="https://github.com/Gregbgarman/Grocery-.NET-app/blob/master/full.net.gif" width=700><br>
 ### [Overview and source code](https://github.com/Gregbgarman/Grocery-.NET-app)
+
+
+
+
+
 
 <!--
 ## Linux Shell Recreation
