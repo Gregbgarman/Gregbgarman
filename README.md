@@ -55,39 +55,31 @@ My interest in programming began in 2019 when I completed a simple python module
 
 ### [Overview and source code](https://github.com/Gregbgarman/SharedGroceryListApp)
 
-## DNA Sequencing Console App (C++)
-### App converts DNA sequences to mRNA to amino acids. Shown here is conversion of a Covid-19 strain's complete DNA genome into amino acids.
-<img src="https://github.com/Gregbgarman/DNASequencing/blob/master/decoding.gif" width=500> &nbsp;
-<img src="https://github.com/Gregbgarman/DNASequencing/blob/master/covidpic.PNG" width=250><br>
-### [Overview and source code](https://github.com/Gregbgarman/DNASequencing)
-
+## Shopping Cart App (.NET)
+### User shops and adds items on client side while server side constantly updates changes with RESTful API
+<img src="https://github.com/Gregbgarman/Grocery-.NET-app/blob/master/full.net.gif" width=700><br>
+### [Overview and source code](https://github.com/Gregbgarman/Grocery-.NET-app)
 
 ## Battleship Game (Java SDK)
 ### Recreation of classic board game
 <img src="https://github.com/Gregbgarman/getfiles/blob/main/placeshipsimg.PNG" width=350>&nbsp;&nbsp; <img src="https://github.com/Gregbgarman/getfiles/blob/main/playingbattleship.PNG" width=350>
 ### Please contact me to view source code
 
-## Shopping Cart App (.NET)
-### User shops and adds items on client side while server side constantly updates changes on RESTful API
-<img src="https://github.com/Gregbgarman/Grocery-.NET-app/blob/master/full.net.gif" width=700><br>
-### [Overview and source code](https://github.com/Gregbgarman/Grocery-.NET-app)
+## Elevator Kernel Project (C)
+### Elevator simulation utilizes custom system calls and kernel modules while a proc file is used for terminal output. Project completed in kernel mode after adding new system calls to system call table and recompiling kernel.
+<img src="https://github.com/Gregbgarman/getfiles/blob/main/elevator.gif" width=700><br>
+### Please contact me to view source code
 
+## DNA Sequencing Console App (C++)
+### App converts DNA sequences to mRNA to amino acids. Shown here is conversion of a Covid-19 strain's complete DNA genome into amino acids.
+<img src="https://github.com/Gregbgarman/DNASequencing/blob/master/decoding.gif" width=500> &nbsp;
+<img src="https://github.com/Gregbgarman/DNASequencing/blob/master/covidpic.PNG" width=250><br>
+### [Overview and source code](https://github.com/Gregbgarman/DNASequencing)
 
-
-
-
-
-<!--
-## Linux Shell Recreation
+## Linux Shell Recreation (C)
 ### C program supports normal command line functionality including piping, output/input redirection, and background processes
 <img src="https://github.com/Gregbgarman/getfiles/blob/main/fullshell.gif" width=700><br>
 ### Please contact me to view source code
-
-## Elevator Kernel Project
-### Elevator simulation utilizes custom system calls and kernel modules while a proc file is used for terminal output
-<img src="https://github.com/Gregbgarman/getfiles/blob/main/elevator.gif" width=700><br>
-### Please contact me to view source code
--->
 
 
 
