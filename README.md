@@ -49,9 +49,11 @@ My interest in programming began in 2019 when I completed a simple python module
 <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage1.PNG" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage2.PNG" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage3.PNG" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/TaskApp/blob/master/TAgoodimage4.PNG" width=180><br>
 ### [Overview and source code](https://github.com/Gregbgarman/TaskApp)
 
-### Movie App (iOS)
+
+
+## Movie App (iOS)
 ### App allows users to see which movies are currently playing in theaters and watch YouTube trailers for each
-<img src="https://github.com/Gregbgarman/iosmovieapp/blob/main/image1.png" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/iosmovieapp/blob/main/Screen%20Shot%202021-12-16%20at%202.35.57%20AM.png" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/iosmovieapp/blob/main/image2.png" width=300> <br>
+<img src="https://github.com/Gregbgarman/iosmovieapp/blob/main/run1.gif" width=200> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/iosmovieapp/blob/main/image2.png" width=370>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/iosmovieapp/blob/main/Screen%20Shot%202021-12-16%20at%202.35.57%20AM.png" width=200> <br>
 ### [Overview and source code](https://github.com/Gregbgarman/iosmovieapp)
 
 
