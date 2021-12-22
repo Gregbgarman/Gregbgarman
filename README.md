@@ -59,7 +59,7 @@ My interest in programming began in 2019 when I completed a simple python module
 
 ## Shared Shopping List App (iOS)
 ### App allows users to share a grocery list so no items will be forgotten at the store
-<img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/main/s1.png" width=180> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/main/s4.png" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/main/s5.png" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/main/s2.png" width=180><br>
+<img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/main/Screen%20Shot%202021-12-21%20at%207.19.34%20PM.png" width=185> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/main/s4.png" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/main/s5.png" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/main/s2.png" width=180><br>
 
 ### [Overview and source code](https://github.com/Gregbgarman/SharedGroceryListApp)
 
