@@ -40,7 +40,7 @@ My interest in programming began in 2019 when I completed a simple python module
 
 ## Movie App (Android)
 ### Users can gain information on current movies playing and nearby theaters
-<img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage4.PNG" width=180> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage5.PNG" width=180> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage7.PNG" width=180>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage3.PNG" width=180><br>
+<img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/walkthrough1.gif" width=180> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/filmfan3.gif" width=180> &nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage7.PNG" width=180>&nbsp;&nbsp; &nbsp;  <img src="https://github.com/Gregbgarman/Film_Fanatic/blob/master/FFgoodimage3.PNG" width=180><br>
 ### [Overview and source code](https://github.com/Gregbgarman/Film_Fanatic)
 
 
@@ -57,7 +57,7 @@ My interest in programming began in 2019 when I completed a simple python module
 ### [Overview and source code](https://github.com/Gregbgarman/iosmovieapp)
 
 
-## Shared Shopping List App (iOS)
+## Shared Shopping List App (iOS) and Spring Boot API project (Java)
 ### App allows users to share a grocery list so no items will be forgotten at the store
 <img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/master/run1.gif" width=185> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/master/s4.png" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/master/s5.png" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/master/s2.png" width=180><br>
 
