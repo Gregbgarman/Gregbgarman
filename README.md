@@ -58,7 +58,7 @@ My interest in programming began in 2019 when I completed a simple python module
 
 
 ## Shared Shopping List App (iOS) and Spring Boot API project (Java)
-### App allows users to share a grocery list so no items will be forgotten at the store
+### App allows users to share a grocery list so no items will be forgotten at the store. Uses API hosted on Azure.
 <img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/master/run1.gif" width=185> &nbsp; &nbsp; &nbsp; <img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/master/s4.png" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/master/s5.png" width=180>&nbsp;&nbsp; &nbsp;<img src="https://github.com/Gregbgarman/SharedGroceryListApp/blob/master/s2.png" width=180><br>
 
 ### [Overview and source code for iOS APP](https://github.com/Gregbgarman/SharedGroceryListApp)
