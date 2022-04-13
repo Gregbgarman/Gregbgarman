@@ -74,6 +74,7 @@ My interest in programming began in 2019 when I completed a simple python module
 <img src="https://github.com/Gregbgarman/getfiles/blob/main/placeshipsimg.PNG" width=350>&nbsp;&nbsp; <img src="https://github.com/Gregbgarman/getfiles/blob/main/playingbattleship.PNG" width=350>
 ### Please contact me to view source code
 
+<!--
 ## Elevator Kernel Project (C)
 ### Elevator simulation utilizes custom system calls and kernel modules while a proc file is used for terminal output. Project completed in kernel mode after adding new system calls to system call table and recompiling kernel.
 <img src="https://github.com/Gregbgarman/getfiles/blob/main/elevator.gif" width=700><br>
@@ -89,7 +90,7 @@ My interest in programming began in 2019 when I completed a simple python module
 ### C program supports normal command line functionality including piping, output/input redirection, and background processes
 <img src="https://github.com/Gregbgarman/getfiles/blob/main/fullshell.gif" width=700><br>
 ### Please contact me to view source code
-
+-->
 
 
 ### Feel free to contact me: gregory.b.garman@gmail.com
